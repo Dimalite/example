@@ -1,0 +1,16 @@
+{
+  "name": "polite-association-return-84ywn",
+  "productName": "polite-association-return-84ywn",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "cries",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "18.1.0"
+  },
+  "license": "ISC"
+}
